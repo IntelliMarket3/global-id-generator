@@ -1,0 +1,25 @@
+# IntelliJ project files
+.idea
+.project
+*.lst
+.prefs
+.settings
+*.iml
+out
+gen
+/.apt_generated/
+/.classpath
+/.factorypath
+/.project
+/.settings/
+/.springBeans
+/target/
+/user-profile-analysis.iml
+/.idea
+/README.md
+.DS_Store
+.factorypath
+.classpath
+
+/target/
+*.class
