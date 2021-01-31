@@ -3,6 +3,7 @@ package com.dpitech.common.utils.uid;
 /**
  * 扩展的雪花算法
  * 设计思路：<a href="https://www.yuque.com/dpitech/dy2rme/pvhyo5">语雀：全局id生成思路</a>
+ * github：<a href="https://github.com/IntelliMarket3/global-id-generator">github</a>
  * 第一位为固定位1，指定id为非负数。
  * 第2位 ～第42位， 一共41位长度。为当前时间戳。
  * 第43位～第45位，一共3位长度。表示不同的业务领域。

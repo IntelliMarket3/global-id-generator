@@ -3,7 +3,7 @@ package com.dpitech.common.utils.uid;
 
 /**
  *
- * 全局id生成模版
+ * 可扩展的全局id生成模版类
  *
  * @author rusheng
  */
