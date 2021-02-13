@@ -16,11 +16,25 @@ public enum BizIdEnum {
     SHOP(1L),
 
     /**
+     * 线下rfid order
+     */
+    OFFLINE_RFID_ORDER(2L),
+
+    /**
+     * 线下水果
+     */
+    OFFLINE_FRUIT_ORDER(3L),
+
+    /**
+     * 线上订单
+     */
+    ONLINE_ORDER(4L),
+
+    /**
      * 无业务区分
      * 暂时保留
      */
     OTHER(7L);
-    ;
 
     /**
      * bizId value
